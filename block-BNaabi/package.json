@@ -1,0 +1,14 @@
+{
+  "name": "sample2",
+  "version": "1.0.0",
+  "description": "just a sample application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "author": "AltCampus",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
