@@ -1,13 +1,13 @@
 {
-  "name": "altcampus-assignment",
+  "name": "sample2",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "description": "just a sample application",
+  "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests"
   },
   "author": "AltCampus",
-  "license": "GNU GPL V3",
+  "license": "UNLICENSED",
   "dependencies": {
     "jest": "^26.0.1"
   }
